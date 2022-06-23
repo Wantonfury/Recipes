@@ -1,0 +1,24 @@
+body {
+    background-color: white;
+}
+
+h1 {
+    text-align: center;
+    font-size: 48px;
+}
+
+.image {
+    height: auto;
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.list-homepage {
+    display: table;
+    margin: 0 auto;
+    font-size: 24px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    list-style-position: inside;
+}
