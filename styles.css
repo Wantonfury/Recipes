@@ -1,3 +1,7 @@
+* {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
 body {
     background-color: white;
 }
@@ -5,6 +9,14 @@ body {
 h1 {
     text-align: center;
     font-size: 48px;
+}
+
+h3 {
+    text-align: center; 
+}
+
+p {
+    text-align: center;
 }
 
 .image {
@@ -19,6 +31,11 @@ h1 {
     display: table;
     margin: 0 auto;
     font-size: 24px;
-    font-family: Helvetica, "Times New Roman", sans-serif;
+    list-style-position: inside;
+}
+
+.list-recipe {
+    display: table;
+    margin: 0 auto;
     list-style-position: inside;
 }
