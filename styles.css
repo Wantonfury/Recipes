@@ -16,7 +16,10 @@ h3 {
 }
 
 p {
+    display: table;
+    margin: 0 auto;
     text-align: center;
+    max-width: 150ch;
 }
 
 .image {
@@ -38,4 +41,5 @@ p {
     display: table;
     margin: 0 auto;
     list-style-position: inside;
+    max-width: 150ch;
 }
